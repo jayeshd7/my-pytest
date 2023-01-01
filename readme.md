@@ -54,6 +54,14 @@ To run tests, run the following command
   pipenv run pytest .
 ```
 
+## setup virtual env
+To set up virual env, run the following command
+
+```
+1.  python3.9 -m venv env   
+2.  source env/bin/activate  (activate the venv) 
+3.  deactivate ( remove venv)
+```
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayesh-dalal-885b8266/)

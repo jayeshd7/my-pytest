@@ -8,7 +8,8 @@ node_modules/
 dist/
 .coverage
 .env
-
+.pytest_cache
+env
 # Compiled Java class files
 *.class
 

@@ -63,6 +63,11 @@ To set up virual env, run the following command
 3.  deactivate ( remove venv)
 ```
 
+## Python Command to run the pytest
+```
+pytest test_our_first_test.py -v -s -p no:warnings
+```
+
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayesh-dalal-885b8266/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dalal_jayesh)
